@@ -16,6 +16,10 @@ Node.js • Nest.js • Postgres • AWS
 
 ## Pet projects
 
+## Codewars
+
+[![codewars](https://www.codewars.com/users/BazhenovYN/badges/large)](https://www.codewars.com/users/BazhenovYN)
+
 ### Socials
 * [LinkedIn](https://www.linkedin.com/in/iurii-bazhenov/)
 * <bazhenovyn@gmail.com>
