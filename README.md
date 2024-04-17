@@ -22,11 +22,12 @@ Node.js • Nest.js • Postgres • AWS
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-35495E?style=for-the-badge&logo=vitest&logoColor=729B1B)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/></details>
 
 📘 *Description:* IDE for graphQL requests\
-🚀 *Tech stack:* React, Typescript, Redux, Ant Design, Firebase, Vite\
+🚀 *Tech stack:* React, Typescript, Redux, Ant Design, Firebase, Vite, Vitest\
 💾 *Repo:* [link](https://github.com/BazhenovYN/graphiql-app)\
 💻 *Deploy:* [link](https://rss-graphi-ql.netlify.app/)
 
@@ -35,11 +36,12 @@ Node.js • Nest.js • Postgres • AWS
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/0f61043c-3968-4d81-a018-fd8067ce381f" alt="ecomm" style="width:30vw;"/></details>
 
 📘 *Description:* eCommerce Application\
-🚀 *Tech stack:* React, Typescript, MUI, Commercetools, Create React App\
+🚀 *Tech stack:* React, Typescript, MUI, Commercetools, Create React App, Jest\
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-ECOMM)\
 💻 *Deploy:* [link](https://rss-ecomm.netlify.app/)
 
@@ -48,11 +50,13 @@ Node.js • Nest.js • Postgres • AWS
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/9a432eb6-9b53-4b6d-bd7c-ccc787b0bbc3" alt="css-vegan" style="width:30vw;"/></details>
 
 📘 *Description:* game for learning CSS selectors (analogue of [CSS Diner](https://flukeout.github.io/))\
-🚀 *Tech stack:* Javascript, HTML, SCSS, Webpack\
+🚀 *Tech stack:* Javascript, HTML, SCSS, Webpack, Jest\
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/RSS-CSS-Selectors)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/rss-css-selectors/)
 
