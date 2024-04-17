@@ -16,38 +16,38 @@ Node.js • Nest.js • Postgres • AWS
 
 ## Pet projects
 
-### GraphiQL
+### 1. GraphiQL
 
 ![React](https://badges.aleen42.com/src/react.svg)
 ![Typescript](https://badges.aleen42.com/src/typescript.svg)
 ![Redux](https://badges.aleen42.com/src/redux.svg)
 
-<img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/>
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/></details>
 
 📘 *Description:* IDE for graphQL requests\
 🚀 *Tech stack:* React, Typescript, Redux, Ant Design, Firebase, Vite\
 💾 *Repo:* [link](https://github.com/BazhenovYN/graphiql-app)\
 💻 *Deploy:* [link](https://rss-graphi-ql.netlify.app/)
 
-### E-COMM
+### 2. E-COMM
 
 ![React](https://badges.aleen42.com/src/react.svg)
 ![Typescript](https://badges.aleen42.com/src/typescript.svg)
 
-<img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/0f61043c-3968-4d81-a018-fd8067ce381f" alt="graphiql" style="width:30vw;"/>
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/0f61043c-3968-4d81-a018-fd8067ce381f" alt="graphiql" style="width:30vw;"/></details>
 
 📘 *Description:* eCommerce Application\
 🚀 *Tech stack:* React, Typescript, MUI, Commercetools, Create React App\
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-ECOMM)\
 💻 *Deploy:* [link](https://rss-ecomm.netlify.app/)
 
-### Virtual keyboard
+### 3. Virtual keyboard
 
 ![Javascript](https://badges.aleen42.com/src/javascript.svg)
 ![HTML5](https://badges.aleen42.com/src/html5.svg)
 ![CSS3](https://badges.aleen42.com/src/css3.svg)
 
-<img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/2f2072e5-8dcf-4c44-891f-97d10d813d55" alt="keyboard" style="width:30vw;"/>
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/2f2072e5-8dcf-4c44-891f-97d10d813d55" alt="keyboard" style="width:30vw;"/></details>
 
 📘 *Description:* virtual keyboard\
 🚀 *Tech stack:* Javascript, HTML, SCSS\
