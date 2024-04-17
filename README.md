@@ -18,9 +18,10 @@ Node.js • Nest.js • Postgres • AWS
 
 ### 1. GraphiQL
 
-![React](https://badges.aleen42.com/src/react.svg)
-![Typescript](https://badges.aleen42.com/src/typescript.svg)
-![Redux](https://badges.aleen42.com/src/redux.svg)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/></details>
 
@@ -31,8 +32,9 @@ Node.js • Nest.js • Postgres • AWS
 
 ### 2. E-COMM
 
-![React](https://badges.aleen42.com/src/react.svg)
-![Typescript](https://badges.aleen42.com/src/typescript.svg)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/0f61043c-3968-4d81-a018-fd8067ce381f" alt="ecomm" style="width:30vw;"/></details>
 
@@ -43,9 +45,9 @@ Node.js • Nest.js • Postgres • AWS
 
 ### 3. CSS Vegan
 
-![Javascript](https://badges.aleen42.com/src/javascript.svg)
-![HTML5](https://badges.aleen42.com/src/html5.svg)
-![CSS3](https://badges.aleen42.com/src/css3.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/9a432eb6-9b53-4b6d-bd7c-ccc787b0bbc3" alt="css-vegan" style="width:30vw;"/></details>
 
@@ -56,9 +58,9 @@ Node.js • Nest.js • Postgres • AWS
 
 ### 4. Minesweeper
 
-![Javascript](https://badges.aleen42.com/src/javascript.svg)
-![HTML5](https://badges.aleen42.com/src/html5.svg)
-![CSS3](https://badges.aleen42.com/src/css3.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/a24fd3d6-3917-4dc3-9ad6-fff6cd5b5fbe" alt="minesweeper" style="width:30vw;"/></details>
 
@@ -69,9 +71,9 @@ Node.js • Nest.js • Postgres • AWS
 
 ### 5. Virtual keyboard
 
-![Javascript](https://badges.aleen42.com/src/javascript.svg)
-![HTML5](https://badges.aleen42.com/src/html5.svg)
-![CSS3](https://badges.aleen42.com/src/css3.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/2f2072e5-8dcf-4c44-891f-97d10d813d55" alt="keyboard" style="width:30vw;"/></details>
 
@@ -82,9 +84,9 @@ Node.js • Nest.js • Postgres • AWS
 
 ### 6. Shelter
 
-![Javascript](https://badges.aleen42.com/src/javascript.svg)
-![HTML5](https://badges.aleen42.com/src/html5.svg)
-![CSS3](https://badges.aleen42.com/src/css3.svg)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/a9471b28-9850-4040-9f13-95b29631dcd0" alt="shelter" style="width:30vw;"/></details>
 
