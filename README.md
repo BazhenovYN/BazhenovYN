@@ -1,4 +1,4 @@
-# Hi there, my name is Iurii 👋
+# Hi there, my name is Yuriy 👋
 
 I am a software developer with 11 years of experience. I spent nine years specialising in ERP development, honing my skills and creating high quality solutions. In 2023, I decided to expand my horizons and ventured into the world of frontend development. Currently, I am also actively expanding my knowledge in backend development to become a versatile full-stack developer. I am passionate about learning and constantly improving my skills to stay on the cutting edge of technology.
 
@@ -34,10 +34,25 @@ Node.js • Nest.js • Postgres • AWS
 ![React](https://badges.aleen42.com/src/react.svg)
 ![Typescript](https://badges.aleen42.com/src/typescript.svg)
 
+<img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/0f61043c-3968-4d81-a018-fd8067ce381f" alt="graphiql" style="width:30vw;"/>
+
 📘 *Description:* eCommerce Application\
 🚀 *Tech stack:* React, Typescript, MUI, Commercetools, Create React App\
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-ECOMM)\
 💻 *Deploy:* [link](https://rss-ecomm.netlify.app/)
+
+### Virtual keyboard
+
+![Javascript](https://badges.aleen42.com/src/javascript.svg)
+![HTML5](https://badges.aleen42.com/src/html5.svg)
+![CSS3](https://badges.aleen42.com/src/css3.svg)
+
+<img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/2f2072e5-8dcf-4c44-891f-97d10d813d55" alt="keyboard" style="width:30vw;"/>
+
+📘 *Description:* virtual keyboard\
+🚀 *Tech stack:* Javascript, HTML, SCSS\
+💾 *Repo:* [link](https://github.com/BazhenovYN/virtual-keyboard)\
+💻 *Deploy:* [link](https://bazhenovyn.github.io/virtual-keyboard/)
 
 ## Codewars
 
