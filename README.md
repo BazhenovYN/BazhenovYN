@@ -41,7 +41,20 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-ECOMM)\
 💻 *Deploy:* [link](https://rss-ecomm.netlify.app/)
 
-### 3. Virtual keyboard
+### 3. CSS Vegan
+
+![Javascript](https://badges.aleen42.com/src/javascript.svg)
+![HTML5](https://badges.aleen42.com/src/html5.svg)
+![CSS3](https://badges.aleen42.com/src/css3.svg)
+
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/9a432eb6-9b53-4b6d-bd7c-ccc787b0bbc3" alt="keyboard" style="width:30vw;"/></details>
+
+📘 *Description:* game for learning CSS selectors (analogue of [CSS Diner](https://flukeout.github.io/))\
+🚀 *Tech stack:* Javascript, HTML, SCSS, Webpack\
+💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/RSS-CSS-Selectors)\
+💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/rss-css-selectors/)
+
+### 4. Virtual keyboard
 
 ![Javascript](https://badges.aleen42.com/src/javascript.svg)
 ![HTML5](https://badges.aleen42.com/src/html5.svg)
