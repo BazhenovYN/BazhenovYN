@@ -20,14 +20,24 @@ Node.js • Nest.js • Postgres • AWS
 
 ![React](https://badges.aleen42.com/src/react.svg)
 ![Typescript](https://badges.aleen42.com/src/typescript.svg)
-![Vite](https://badges.aleen42.com/src/vitejs.svg)
+![Redux](https://badges.aleen42.com/src/redux.svg)
 
 <img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/>
 
 📘 *Description:* IDE for graphQL requests\
-🚀 *Tech stack:* React, Typescript, Redux, Ant Design, Firebase\
+🚀 *Tech stack:* React, Typescript, Redux, Ant Design, Firebase, Vite\
 💾 *Repo:* [link](https://github.com/BazhenovYN/graphiql-app)\
 💻 *Deploy:* [link](https://rss-graphi-ql.netlify.app/)
+
+### E-COMM
+
+![React](https://badges.aleen42.com/src/react.svg)
+![Typescript](https://badges.aleen42.com/src/typescript.svg)
+
+📘 *Description:* eCommerce Application\
+🚀 *Tech stack:* React, Typescript, MUI, Commercetools, Create React App\
+💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-ECOMM)\
+💻 *Deploy:* [link](https://rss-ecomm.netlify.app/)
 
 ## Codewars
 
