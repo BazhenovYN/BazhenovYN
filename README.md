@@ -12,7 +12,7 @@ React.js • TypeScript • Redux • Next.js • Jest
 
 Node.js • Nest.js • Postgres • AWS
 
-![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,docker,aws)
+![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,aws,docker)
 
 ## Pet projects
 
