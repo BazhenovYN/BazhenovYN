@@ -6,13 +6,13 @@ I am a software developer with 11 years of experience. I spent nine years specia
 
 React.js • TypeScript • Redux • Next.js • Jest
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,graphql,html,css,sass,jest,vitest)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,graphql,html,css,sass,jest,vitest)
 
 ## Learning
 
 Node.js • Nest.js • Postgres • AWS
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,docker,aws)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,postgres,docker,aws)
 
 ## Pet projects
 
