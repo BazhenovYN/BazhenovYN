@@ -54,7 +54,20 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/RSS-CSS-Selectors)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/rss-css-selectors/)
 
-### 4. Virtual keyboard
+### 4. Minesweeper
+
+![Javascript](https://badges.aleen42.com/src/javascript.svg)
+![HTML5](https://badges.aleen42.com/src/html5.svg)
+![CSS3](https://badges.aleen42.com/src/css3.svg)
+
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/a24fd3d6-3917-4dc3-9ad6-fff6cd5b5fbe" alt="keyboard" style="width:30vw;"/></details>
+
+📘 *Description:* classic game Minesweeper\
+🚀 *Tech stack:* Javascript, HTML, SCSS\
+💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/minesweeper)\
+💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/minesweeper/)
+
+### 5. Virtual keyboard
 
 ![Javascript](https://badges.aleen42.com/src/javascript.svg)
 ![HTML5](https://badges.aleen42.com/src/html5.svg)
