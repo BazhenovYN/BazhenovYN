@@ -16,6 +16,15 @@ Node.js • Nest.js • Postgres • AWS
 
 ## Pet projects
 
+1. GraphiQL
+
+<img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/>
+
+📘 *Description:* IDE for graphQL requests\
+🚀 *Tech stack:* React, Typescript, Ant Design, Redux, Firebase\
+💾 *Repo:* [link](https://github.com/BazhenovYN/graphiql-app)\
+💻 *Deploy:* [link](https://rss-graphi-ql.netlify.app/)
+
 ## Codewars
 
 [![codewars](https://www.codewars.com/users/BazhenovYN/badges/large)](https://www.codewars.com/users/BazhenovYN)
