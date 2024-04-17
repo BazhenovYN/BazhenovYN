@@ -34,7 +34,7 @@ Node.js • Nest.js • Postgres • AWS
 ![React](https://badges.aleen42.com/src/react.svg)
 ![Typescript](https://badges.aleen42.com/src/typescript.svg)
 
-<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/0f61043c-3968-4d81-a018-fd8067ce381f" alt="graphiql" style="width:30vw;"/></details>
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/0f61043c-3968-4d81-a018-fd8067ce381f" alt="ecomm" style="width:30vw;"/></details>
 
 📘 *Description:* eCommerce Application\
 🚀 *Tech stack:* React, Typescript, MUI, Commercetools, Create React App\
@@ -47,7 +47,7 @@ Node.js • Nest.js • Postgres • AWS
 ![HTML5](https://badges.aleen42.com/src/html5.svg)
 ![CSS3](https://badges.aleen42.com/src/css3.svg)
 
-<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/9a432eb6-9b53-4b6d-bd7c-ccc787b0bbc3" alt="keyboard" style="width:30vw;"/></details>
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/9a432eb6-9b53-4b6d-bd7c-ccc787b0bbc3" alt="css-vegan" style="width:30vw;"/></details>
 
 📘 *Description:* game for learning CSS selectors (analogue of [CSS Diner](https://flukeout.github.io/))\
 🚀 *Tech stack:* Javascript, HTML, SCSS, Webpack\
@@ -60,7 +60,7 @@ Node.js • Nest.js • Postgres • AWS
 ![HTML5](https://badges.aleen42.com/src/html5.svg)
 ![CSS3](https://badges.aleen42.com/src/css3.svg)
 
-<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/a24fd3d6-3917-4dc3-9ad6-fff6cd5b5fbe" alt="keyboard" style="width:30vw;"/></details>
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/a24fd3d6-3917-4dc3-9ad6-fff6cd5b5fbe" alt="minesweeper" style="width:30vw;"/></details>
 
 📘 *Description:* classic game Minesweeper\
 🚀 *Tech stack:* Javascript, HTML, SCSS\
@@ -79,6 +79,19 @@ Node.js • Nest.js • Postgres • AWS
 🚀 *Tech stack:* Javascript, HTML, SCSS\
 💾 *Repo:* [link](https://github.com/BazhenovYN/virtual-keyboard)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/virtual-keyboard/)
+
+### 6. Shelter
+
+![Javascript](https://badges.aleen42.com/src/javascript.svg)
+![HTML5](https://badges.aleen42.com/src/html5.svg)
+![CSS3](https://badges.aleen42.com/src/css3.svg)
+
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/a9471b28-9850-4040-9f13-95b29631dcd0" alt="shelter" style="width:30vw;"/></details>
+
+📘 *Description:* landing page ([figma](https://www.figma.com/file/Yk6EnbY63FyG2PJTFkJDMh/shelter))\
+🚀 *Tech stack:* Javascript, HTML, SCSS\
+💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/shelter-part3/Shelter)\
+💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/Shelter/pages/main/)
 
 ## Codewars
 
