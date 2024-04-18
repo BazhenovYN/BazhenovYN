@@ -22,6 +22,7 @@ Node.js • Nest.js • Postgres • AWS
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-1890FF?style=for-the-badge&logo=antdesign&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-35495E?style=for-the-badge&logo=vitest&logoColor=729B1B)
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/></details>
