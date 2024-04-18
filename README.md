@@ -45,7 +45,24 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-ECOMM)\
 💻 *Deploy:* [link](https://rss-ecomm.netlify.app/)
 
-### 3. CSS Vegan
+### 3. Home Library Service
+
+![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+
+<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/e281d0b7-55cd-47d5-8e6f-c1b30f2d805c" alt="home-library-service" style="width:30vw;"/></details>
+
+📘 *Description:* Simple REST API\
+🚀 *Tech stack:* NestJs, Typescript, Prisma, PostgreSQL, Docker, JWT, Swagger\
+💾 *Repo:* [link](https://github.com/BazhenovYN/nodejs2024Q1-service)\
+💻 *Deploy:* none
+
+### 4. CSS Vegan
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -60,7 +77,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/RSS-CSS-Selectors)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/rss-css-selectors/)
 
-### 4. Minesweeper
+### 5. Minesweeper
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -73,7 +90,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/minesweeper)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/minesweeper/)
 
-### 5. Virtual keyboard
+### 6. Virtual keyboard
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -86,7 +103,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/virtual-keyboard)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/virtual-keyboard/)
 
-### 6. Shelter
+### 7. Shelter
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
