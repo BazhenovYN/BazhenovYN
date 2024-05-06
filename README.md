@@ -25,7 +25,10 @@ Node.js • Nest.js • Postgres • AWS
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Vitest](https://img.shields.io/badge/Vitest-35495E?style=for-the-badge&logo=vitest&logoColor=729B1B)
 
-<details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/24b6bd98-a1b4-4a65-91e3-493326730302" alt="graphiql" style="width:30vw;"/></details>
+<details><summary>Screenshot</summary>
+  <img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/8267ad49-2d71-4a5d-97e8-17e5ca7fd04b" alt="graphiql" style="width:30vw;"/>
+  <img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/f18092df-55fe-4f13-9216-15175c4cb609" alt="graphiql-docs" style="width:30vw;"/>  
+</details>
 
 📘 *Description:* IDE for graphQL requests\
 🚀 *Tech stack:* React, Typescript, Redux, Ant Design, Firebase, Vite, Vitest\
