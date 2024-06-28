@@ -16,7 +16,30 @@ Node.js • Nest.js • Postgres • AWS
 
 ## Pet projects
 
-### 1. GraphiQL
+### 1. BankDash (🚧 WIP)
+
+![Fastify](https://img.shields.io/badge/fastify-202020?style=for-the-badge&logo=fastify&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+![NextJS](https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![tRPC](https://img.shields.io/badge/tRPC-%232596BE.svg?style=for-the-badge&logo=tRPC&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-35495E?style=for-the-badge&logo=vitest&logoColor=729B1B)
+
+📘 *Description:* Fullstack application for bank dashboard\
+🤖 *Tech stack (Backend):* Fastify, Typescript, tRPC, Prisma, PostgreSQL, Docker, JWT\
+🚀 *Tech stack (Frontend):* NextJS, Typescript, tRPC, Tailwind CSS, Vitest\
+🎨 *Figma:* [link](https://www.figma.com/community/file/1323695683687017923)\
+💾 *Monorepo:* [link](https://github.com/BazhenovYN/bankdash)\
+💻 *Deploy:* [link](https://bankdash.up.railway.app/)
+
+### 2. GraphiQL
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -35,7 +58,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/graphiql-app)\
 💻 *Deploy:* [link](https://rss-graphi-ql.netlify.app/)
 
-### 2. E-COMM
+### 3. E-COMM
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -49,7 +72,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-ECOMM)\
 💻 *Deploy:* [link](https://rss-ecomm.netlify.app/)
 
-### 3. Home Library Service
+### 4. Home Library Service
 
 ![NestJs](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -66,7 +89,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/nodejs2024Q1-service)\
 💻 *Deploy:* none
 
-### 4. CSS Vegan
+### 5. CSS Vegan
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -81,7 +104,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/RSS-CSS-Selectors)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/rss-css-selectors/)
 
-### 5. Minesweeper
+### 6. Minesweeper
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -94,7 +117,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/minesweeper)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/minesweeper/)
 
-### 6. Virtual keyboard
+### 7. Virtual keyboard
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -107,7 +130,7 @@ Node.js • Nest.js • Postgres • AWS
 💾 *Repo:* [link](https://github.com/BazhenovYN/virtual-keyboard)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/virtual-keyboard/)
 
-### 7. Shelter
+### 8. Shelter
 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
