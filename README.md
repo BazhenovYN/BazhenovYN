@@ -138,8 +138,9 @@ Node.js • Nest.js • Postgres • AWS
 
 <details><summary>Screenshot</summary><img src="https://github.com/BazhenovYN/BazhenovYN/assets/114768651/a9471b28-9850-4040-9f13-95b29631dcd0" alt="shelter" style="width:30vw;"/></details>
 
-📘 *Description:* landing page ([figma](https://www.figma.com/file/Yk6EnbY63FyG2PJTFkJDMh/shelter))\
+📘 *Description:* landing page\
 🚀 *Tech stack:* Javascript, HTML, SCSS\
+🎨 *Figma:* [link](https://www.figma.com/file/Yk6EnbY63FyG2PJTFkJDMh/shelter)\
 💾 *Repo:* [link](https://github.com/BazhenovYN/RSS-JSFE2023Q1/tree/shelter-part3/Shelter)\
 💻 *Deploy:* [link](https://bazhenovyn.github.io/RSS-JSFE2023Q1/Shelter/pages/main/)
 
