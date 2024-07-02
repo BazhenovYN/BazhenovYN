@@ -36,7 +36,7 @@ Node.js • Nest.js • Postgres • AWS
 🤖 *Tech stack (Backend):* Fastify, Typescript, tRPC, Prisma, PostgreSQL, Docker, JWT\
 🚀 *Tech stack (Frontend):* NextJS, Typescript, tRPC, Tailwind CSS, Vitest\
 🎨 *Figma:* [link](https://www.figma.com/community/file/1323695683687017923)\
-💾 *Monorepo:* [link](https://github.com/BazhenovYN/bankdash)\
+💾 *Monorepo:* [link](https://github.com/BazhenovYN/bankdash)
 
 ### 2. GraphiQL
 
