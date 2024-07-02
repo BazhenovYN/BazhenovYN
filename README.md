@@ -37,7 +37,6 @@ Node.js • Nest.js • Postgres • AWS
 🚀 *Tech stack (Frontend):* NextJS, Typescript, tRPC, Tailwind CSS, Vitest\
 🎨 *Figma:* [link](https://www.figma.com/community/file/1323695683687017923)\
 💾 *Monorepo:* [link](https://github.com/BazhenovYN/bankdash)\
-💻 *Deploy:* [link](https://bankdash.up.railway.app/)
 
 ### 2. GraphiQL
 
